@@ -1,1 +1,1 @@
-An Ed-tech Website built with determination
+An Ed-tech Website built with determination and sheer
