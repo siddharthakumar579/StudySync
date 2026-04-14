@@ -19,6 +19,8 @@ let container = document.querySelector('.container')
                 document.querySelector('.feature-container').style.backgroundColor = '#ffffff'
                 document.querySelector('.testimonial-card-image').style.backgroundColor = '#ffffff'
                 document.querySelector('#card2').style.backgroundColor = '#ffffff'
+
+//  
                 document.querySelector('#card3').style.backgroundColor = '#ffffff'
             }
 
