@@ -1,5 +1,5 @@
 let container = document.querySelector('.container')
-        let circle = document.querySelector('.circle') 
+        let circle = document.querySelector('.circle')
 
         let lightTheme = true
 
