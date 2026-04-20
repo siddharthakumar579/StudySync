@@ -22,7 +22,7 @@ let container = document.querySelector('.container')
 
 //  
                 document.querySelector('#card3').style.backgroundColor = '#ffffff'
-            }
+            } 
 
             lightTheme = !lightTheme
         })
