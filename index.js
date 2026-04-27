@@ -6,7 +6,7 @@ let container = document.querySelector('.container')
         circle.addEventListener('click' , function themeChange() {
             if (lightTheme) {
                 document.body.style.backgroundColor = '#584f4f'
-                // circle.style.backgroundColor = '#ffffff'
+               // circle.style.backgroundColor = '#ffffff'
                 document.querySelector('.testimonial-container').style.backgroundColor = '#584f4f'
                 document.querySelector('.feature-container').style.backgroundColor = '#584f4f'
                 document.querySelector('.testimonial-card-image').style.backgroundColor = '#584f4f'
